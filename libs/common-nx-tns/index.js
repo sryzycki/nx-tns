@@ -1,4 +1,0 @@
-Object.defineProperty(exports, "__esModule", { value: true });
-var common_nx_tns_module_1 = require("./src/common-nx-tns.module");
-exports.CommonNxTnsModule = common_nx_tns_module_1.CommonNxTnsModule;
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyJpbmRleC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiO0FBQUEsbUVBQStEO0FBQXRELG1EQUFBLGlCQUFpQixDQUFBIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IHsgQ29tbW9uTnhUbnNNb2R1bGUgfSBmcm9tICcuL3NyYy9jb21tb24tbngtdG5zLm1vZHVsZSc7XG4iXX0=

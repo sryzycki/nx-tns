@@ -5,6 +5,7 @@
 /tmp
 /out-tsc
 /apps/**/platforms
+/libs/**/*.js
 
 # dependencies
 /node_modules
