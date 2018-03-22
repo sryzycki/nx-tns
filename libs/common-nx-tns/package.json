@@ -1,0 +1,6 @@
+{
+  "name": "@nx-tns/common-nx-tns",
+  "version": "0.0.0",
+  "main": "index",
+  "typings": "index.d.ts"
+}
